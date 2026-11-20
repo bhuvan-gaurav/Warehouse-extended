@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+PyJWT
+argon2-cffi
+requests
+
+sqlalchemy
+PyJWT
+argon2-cffi
+fastapi
+uvicorn
+pydantic
